@@ -1,6 +1,8 @@
 # AI Bibliographic Analyzer
 authors: Xenstats Team
 
+The product: https://xenstats.com/ai-tools
+
 ## What is this product?
 The AI Bibliographic Analyzer is an advanced tool designed to assist scientists and researchers in comprehending the impact of their work within the scientific community. It automatically analyzes and classifies citations into categories such as Application, Comment, Application and Comment, and General Inspiration. This detailed classification enables users to identify how their publications are utilized and discussed, providing insights into the influence of their research and highlighting key publications that have spurred new discoveries.
 
